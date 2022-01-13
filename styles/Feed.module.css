@@ -1,0 +1,88 @@
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@200;300;400;500;600&family=Kaushan+Script&family=Poppins:wght@200;300;400;500;600;700;800;900&display=swap');
+.main{
+    display: flex;
+    margin-top: 50px;
+    align-items: center;
+    /* padding-left: 200px; */
+    flex-direction: column;
+}
+
+.post {
+    width: 700px;
+    padding: 20px;
+    margin-bottom: 25px;
+    padding-bottom: 50px;
+    border: 1px solid rgba(48, 47, 47, 0.363);
+    transition: transform .1s;
+    border-radius: 3%;
+    
+}
+
+.post:hover {
+    transform: scale(1.05);
+    text-shadow: 2px 2px 4px #5554546e ;
+
+}
+
+.post img {
+    width: 100%;
+    border-radius: 2%;
+    box-shadow: 2px 2px 4px #000000 ;
+}
+
+.post h1{
+    font-size: 35px;
+    cursor: pointer;
+    text-align: center;
+    font-family: 'Kaushan Script', cursive;
+
+}
+
+.post p {
+    font-size: 25px;
+}
+
+.paginator {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    padding-bottom: 40px;
+    
+}
+.paginator button {
+    border-radius: 10%;
+    padding: 0 10px;
+
+}
+
+
+
+.paginator div {
+    margin: 2px;
+    font-size: 15px;
+    font-family: 'Kaushan Script', cursive;
+    
+}
+
+.paginator .disabled {
+    cursor: not-allowed;
+    color: rgb(179, 179,179);
+}
+
+@media (max-width : 550px) {
+    .post{
+        width: 350px;
+        padding: 15px ;
+        padding-bottom: 30px;
+        cursor: pointer;
+    }
+    .post h1{
+        font-size: 25px;
+    
+    }
+
+    .post p {
+        font-size: 18px;
+    }
+    
+}
