@@ -9,7 +9,7 @@ const eom = () => {
             <div className={styles.main}>
                 <h1>About Me..</h1>
 
-                <p>Hello!! , <br/> This is <span style={{fontWeight:"bolder"}}>Arghya</span> . <br/> I am a B.Tech undergraduate ; Currently in 4th year .
+                <p>Hello!! , <br/> This is Arghya . <br/> I am a B.Tech undergraduate ; Currently in 4th year .
                 <br/> <br/> 
                     Technology excites me and I am always in awe of the change it drives in the world. 
                     <br/> Certain skills that I have worked with include Data Structures and Algorithms (Py + cpp), Web Development (NodeJs, MySQL , ReactJs) & Machine Learning Enthusiast (Python). And what I might lack in skills I make up for with my determination to learn.

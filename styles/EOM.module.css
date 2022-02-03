@@ -1,20 +1,27 @@
+
 .main {
     flex: 1;
     display: flex;
     align-items: center;
     flex-direction: column;
     margin-top: 50px;
+    color: aliceblue;
+    width: 800px;
+    border: 1px solid white;
+    padding: 20px;
+    background: rgba(255,255,255,0.1);
+    backdrop-filter: blur(5px);
 }
 
 .main h1{
-    padding: 20px;
+    padding: 40px;
 }
 
 .main p {
     font-family: 'Kaushan Script', cursive;
     font-size: 20px;
     line-height: 1.6;
-    padding: 0 200px;
+    padding: 0 50px;
 }
 
 .main button {
@@ -34,6 +41,8 @@
     .main p{
         font-size: 20px;
         padding: 0 50px;
+        
+        
     
     }
     .main button {

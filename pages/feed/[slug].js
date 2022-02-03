@@ -11,7 +11,8 @@ const Feed = ({ pageNumber, articles }) => {
 
 
     return (
-        <div className='page-container'>
+        <div className='page-container' >
+            <Toolbar/>
             <div className={styles.main}>
                 {articles.map((articles,index) => (
                     
@@ -39,7 +40,7 @@ const Feed = ({ pageNumber, articles }) => {
                     </div>
                 </button>
                 <button>
-                    <div style={{fontSize : "25px"}}  >
+                    <div style={{fontSize : "20px"}}  >
                         #{pageNumber}
                     </div>
                 </button>
@@ -53,7 +54,7 @@ const Feed = ({ pageNumber, articles }) => {
                     </div>
                 </button>
             </div>
-            <Toolbar/>
+            
 
             
 
