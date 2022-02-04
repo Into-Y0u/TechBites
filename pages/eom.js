@@ -6,7 +6,7 @@ const eom = () => {
     return (
         <div className="page-container" >
             <Toolbar/>
-            <div className={styles.main}>
+            <div className={styles.header}>
                 <h1>About Me..</h1>
 
                 <p>Hello!! , <br/> This is Arghya . <br/> I am a B.Tech undergraduate ; Currently in 4th year .

@@ -1,4 +1,3 @@
-import Header from '../components/Header'
 import Toolbar from '../components/toolbar'
 import styles from '../styles/Home.module.css';
 
@@ -8,7 +7,6 @@ export default function Home() {
   return (
     <div className='page-container'>
       <Toolbar/>
-      
       <div>
           <div className= {styles.header} >
               Hi There ! <br/><br/>

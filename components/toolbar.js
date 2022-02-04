@@ -7,10 +7,7 @@ const Toolbar = () => {
     return (
         <>
             <div className={styles.header}>
-                <div className= {styles.headerlogo}  style ={{textShadow :"5px 8px 8px #25272c" }}  >Tech Bites</div>
-      
-                {/* <div className={styles.main}>
-                 */}
+                <div className= {styles.headerlogo}  style ={{textShadow :"5px 8px 8px #25272c" }}>Tech Bites</div>
                 <div  className= {styles.headerlink}  >
                     <div onClick={() => router.push('/')} >Home</div>
                     <div onClick={() => router.push('/feed/1')} >Feed</div>
