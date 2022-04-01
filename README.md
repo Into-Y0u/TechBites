@@ -20,7 +20,7 @@ Next js and NEWSAPI api.
 
 # Video rep 
 
-Mixture Variants:
+Video Reps
 
-https://github.com/Into-Y0u/TechBites/blob/4e636b959dda5cea7ababea4e0d798d1c2b412a0/Media/TechBites.mp4
+https://user-images.githubusercontent.com/68708178/161249567-df6875df-fa5a-4158-9993-79911baa3b4a.mp4
 
