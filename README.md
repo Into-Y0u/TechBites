@@ -22,5 +22,5 @@ Next js and NEWSAPI api.
 
 Mixture Variants:
 
-https://user-images.githubusercontent.com/6877923/115474571-03c75800-a23e-11eb-8096-8973aad5fa9f.mp4
+https://github.com/Into-Y0u/TechBites/blob/4e636b959dda5cea7ababea4e0d798d1c2b412a0/Media/TechBites.mp4
 
