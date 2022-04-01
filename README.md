@@ -1,9 +1,13 @@
-![](Packages/com.alelievr.mixture/Documentation~/Images/Mixture-github.png)
+![](https://github.com/Into-Y0u/TechBites/blob/e167160d10c49e2ef892942dd76891d6af0a038d/Media/Screenshot%202022-04-01%20160342.png)
+Hi There !
+
+This is a News Web App ; built with NextJS Framework and free API from NewsAPI.org .
+
+This web app provides you current technology news from round the world. As Its using an API , it refreshes automatically and brings the latest news headline everyday. On clicking thr headline you can actually visit the parent news website and read the news in details..
+Okay, No more talk . You just click on the feed and enjoy..
 
 
-Mixture is a powerful node-based tool crafted in unity to generate all kinds of textures in realtime. Mixture is very flexible, easily customizable through [ShaderGraph](https://unity.com/shader-graph) and a simple C# API, fast with it's GPU based workflow and compatible with all the render pipelines thanks to the new [Custom Render Texture](https://docs.unity3d.com/2020.2/Documentation/ScriptReference/CustomRenderTextureManager.html) API.
-
-![](Packages/com.alelievr.mixture/Documentation~/Images/2020-11-04-01-04-59.png)
+Bye-bye😊
 
 # Getting Started
 
